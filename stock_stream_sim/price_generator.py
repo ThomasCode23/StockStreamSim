@@ -54,8 +54,6 @@ class PriceGenerator:
 # prices = []
 # for _ in range(100000):
 #     prices.append(pg.generate_price())
-
-# # Using pandas to visualize the price series
 # price_series = pd.Series(prices)
 # price_series.plot(title="Simulated Stock Price")
 # plt.show()

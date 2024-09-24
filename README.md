@@ -1,6 +1,6 @@
-# StockStreamSim
+# Financial Instrument Simulated Data
 
-StockStreamSim is a Python-based project that simulates realtime prices and OHLC (Open, High, Low, Close) candlestick data for a simulated financial instrument for model training. The price changes are trend-based and simulate realistic real-world price movements. Data is streamed over WebSockets. 
+StockStreamSim is a Python-based project that simulates realtime prices and OHLC (Open, High, Low, Close) candlestick data for a simulated financial instrument for machine learning model training. The price changes are trend-based and simulate realistic real-world price movements. Data is streamed over WebSockets. 
 
 ## Features
 

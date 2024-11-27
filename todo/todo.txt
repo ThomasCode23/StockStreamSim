@@ -1,1 +1,3 @@
+# Todo List
 
+1) Multi Exchange Arbitrage Simulator Server
